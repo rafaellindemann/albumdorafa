@@ -15,7 +15,7 @@ const figurinhas = [
   { numero: 10, quantidade: 1 },
 
   { numero: 11, quantidade: 1 },
-  { numero: 12, quantidade: 6 },
+  { numero: 12, quantidade: 5 },
   { numero: 13, quantidade: 0 },
   { numero: 14, quantidade: 0 },
   { numero: 15, quantidade: 3 },
@@ -26,7 +26,7 @@ const figurinhas = [
   { numero: 19, quantidade: 1 },
   { numero: 20, quantidade: 1 },
 
-  { numero: 21, quantidade: 0 },
+  { numero: 21, quantidade: 1 },
   { numero: 22, quantidade: 0 },
   { numero: 23, quantidade: 1 },
   { numero: 24, quantidade: 0 },
@@ -71,7 +71,7 @@ const cards = figurinhas.map(figurinha => ({
   return (
     <main className="pagina">
       <header className="topo">
-        <p>Álbum da Firma • Copa 2026</p>
+        <p>Álbum da Firma • Rafa Lindemann</p>
         <h1>Minhas Figurinhas</h1>
       </header>
 
