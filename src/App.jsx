@@ -3,8 +3,8 @@ import "./App.css";
 
 const figurinhas = [
   { numero: 1, quantidade: 1 },
-  { numero: 2, quantidade: 2 },
-  { numero: 3, quantidade: 4 },
+  { numero: 2, quantidade: 1 },
+  { numero: 3, quantidade: 3 },
   { numero: 4, quantidade: 1 },
   { numero: 5, quantidade: 0 },
 
@@ -27,9 +27,9 @@ const figurinhas = [
   { numero: 20, quantidade: 1 },
 
   { numero: 21, quantidade: 1 },
-  { numero: 22, quantidade: 0 },
+  { numero: 22, quantidade: 1 },
   { numero: 23, quantidade: 1 },
-  { numero: 24, quantidade: 0 },
+  { numero: 24, quantidade: 1 },
   { numero: 25, quantidade: 1 }
 ];
 
