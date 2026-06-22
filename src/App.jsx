@@ -71,8 +71,8 @@ const cards = figurinhas.map(figurinha => ({
   return (
     <main className="pagina">
       <header className="topo">
-        <p> • Rafa Lindemann • </p>
-        <h1>Álbum da Firma</h1>
+        {/* <p> • Rafa Lindemann • </p> */}
+        <h1>Álbum da Firma • Rafa Lindemann • </h1>
       </header>
 
       <section className="filtros">
