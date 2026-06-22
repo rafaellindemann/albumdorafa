@@ -4,18 +4,18 @@ import "./App.css";
 const figurinhas = [
   { numero: 1, quantidade: 1 },
   { numero: 2, quantidade: 2 },
-  { numero: 3, quantidade: 5 },
-  { numero: 4, quantidade: 0 },
+  { numero: 3, quantidade: 4 },
+  { numero: 4, quantidade: 1 },
   { numero: 5, quantidade: 0 },
 
   { numero: 6, quantidade: 0 },
   { numero: 7, quantidade: 0 },
   { numero: 8, quantidade: 1 },
-  { numero: 9, quantidade: 0 },
+  { numero: 9, quantidade: 1 },
   { numero: 10, quantidade: 1 },
 
   { numero: 11, quantidade: 1 },
-  { numero: 12, quantidade: 5 },
+  { numero: 12, quantidade: 4 },
   { numero: 13, quantidade: 0 },
   { numero: 14, quantidade: 0 },
   { numero: 15, quantidade: 3 },
