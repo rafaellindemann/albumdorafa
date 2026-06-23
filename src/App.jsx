@@ -6,7 +6,7 @@ const figurinhas = [
   { numero: 2, quantidade: 1 },
   { numero: 3, quantidade: 3 },
   { numero: 4, quantidade: 1 },
-  { numero: 5, quantidade: 0 },
+  { numero: 5, quantidade: 1 },
 
   { numero: 6, quantidade: 0 },
   { numero: 7, quantidade: 0 },
