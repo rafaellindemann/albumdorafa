@@ -4,7 +4,7 @@ import "./App.css";
 const figurinhas = [
   { numero: 1, quantidade: 1 },
   { numero: 2, quantidade: 1 },
-  { numero: 3, quantidade: 3 },
+  { numero: 3, quantidade: 2 },
   { numero: 4, quantidade: 1 },
   { numero: 5, quantidade: 1 },
 
@@ -20,7 +20,7 @@ const figurinhas = [
   { numero: 14, quantidade: 0 },
   { numero: 15, quantidade: 3 },
 
-  { numero: 16, quantidade: 0 },
+  { numero: 16, quantidade: 1 },
   { numero: 17, quantidade: 1 },
   { numero: 18, quantidade: 1 },
   { numero: 19, quantidade: 1 },
