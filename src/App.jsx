@@ -15,9 +15,9 @@ const figurinhas = [
   { numero: 10, quantidade: 1 },
 
   { numero: 11, quantidade: 1 },
-  { numero: 12, quantidade: 3 },
+  { numero: 12, quantidade: 1 },
   { numero: 13, quantidade: 1 },
-  { numero: 14, quantidade: 1 },
+  { numero: 14, quantidade: 2 },
   { numero: 15, quantidade: 1 },
 
   { numero: 16, quantidade: 1 },
@@ -28,7 +28,7 @@ const figurinhas = [
 
   { numero: 21, quantidade: 1 },
   { numero: 22, quantidade: 1 },
-  { numero: 23, quantidade: 2 },
+  { numero: 23, quantidade: 1 },
   { numero: 24, quantidade: 1 },
   { numero: 25, quantidade: 1 }
 ];
